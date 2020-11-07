@@ -1,0 +1,12 @@
+table {
+    width: 90%;
+    border: 0.2rem solid black;
+    margin: auto;
+    height: 40rem;
+    border-collapse: collapse;
+    margin-top: 1rem;
+}
+td {
+    border: 0.2rem solid black;
+    padding: 3rem;
+}
